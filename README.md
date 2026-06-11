@@ -18,12 +18,4 @@ Become internship-ready in AI/ML by building projects, learning DSA, and improvi
 - [ ] AI Career Coach
 - [ ] Portfolio Website
 
-## Progress Log
-
-### Day 1
-- Created GitHub repository
-- Started learning Git & GitHub
-
----
-
 Started: June 2026
